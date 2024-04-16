@@ -2,9 +2,9 @@
 #include <cassert>
 using namespace std;
 
-#include "shared/print.cpp"
-#include "shared/insertion_sort.cpp"
-#include "shared/count.cpp"
+#include "../shared/print.cpp"
+#include "../shared/insertion_sort.cpp"
+#include "../shared/count.cpp"
 
 
 // 이진탐색 - 정렬된 배열에서 찾는 경우 

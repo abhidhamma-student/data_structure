@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include "shared/print.cpp"
+#include "../shared/print.cpp"
 
 int *bubbleSort(int arr[], int size);
 
@@ -27,8 +27,9 @@ int main()
 /*
 버블정렬
 
-사이즈만큼의 횟수를 돌면서 
+사이즈만큼의 횟수를 돌면서
 바로 옆에 있는 값이 더 크면 바꾸는 방식
+(두 값을 비교하면서 거품처럼 점점 올라가서 버블정렬)
 */
 int *bubbleSort(int arr[], int size)
 {

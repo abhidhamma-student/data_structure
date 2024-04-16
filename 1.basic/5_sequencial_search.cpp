@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-#include "shared/print.cpp"
-#include "shared/insertion_sort.cpp"
+#include "../shared/print.cpp"
+#include "../shared/insertion_sort.cpp"
 
 /*
 요약: 정렬이 되어있을때는 조기종료를 할 수 있어서 count를 더 효율적으로 할수 있다

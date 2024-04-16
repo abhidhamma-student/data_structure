@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include "shared/print.cpp"
+#include "../shared/print.cpp"
 
 int *selectionSort(int arr[], int size);
 
@@ -27,8 +27,8 @@ int main()
 /*
 선택정렬
 
-사이즈만큼 돌면서 확정된건 제외하고
-가장 작은 값을 찾아서 맨 앞으로 보내는 방식
+사이즈만큼 돌면서 가장 작은 값을 찾아서 맨 앞으로 보내는 방식
+(한 자리씩 선택해서 정렬한다고 해서 선택정렬)
 */
 int *selectionSort(int arr[], int size)
 {
