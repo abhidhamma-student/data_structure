@@ -8,8 +8,8 @@
 ---
 
 # 2.recursion
-- [ ] recursion
-- [ ] recursive sum
+- [x] recursion
+- [x] recursive sum
 - [ ] fibonacci
 - [ ] recursive binary search
 - [ ] permutation
