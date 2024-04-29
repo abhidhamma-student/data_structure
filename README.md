@@ -10,15 +10,15 @@
 # 2.recursion
 - [x] recursion
 - [x] recursive sum
-- [ ] fibonacci
-- [ ] recursive binary search
-- [ ] permutation
+- [x] fibonacci
+- [x] recursive binary search
+- [x] permutation
 ---
 
 # 3.array
-- [ ] string abstract data type
-- [ ] polynomial
-- [ ] sparse polynomial
+- [x] string abstract data type
+- [x] polynomial
+- [x] sparse polynomial
 - [ ] matrix
 - [ ] array of arrays
 - [ ] sparse matrix
