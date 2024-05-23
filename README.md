@@ -19,29 +19,29 @@
 - [x] string abstract data type
 - [x] polynomial
 - [x] sparse polynomial
-- [ ] matrix
-- [ ] array of arrays
-- [ ] sparse matrix
+- [x] matrix
+- [x] array of arrays
+- [x] sparse matrix
 ---
 
 # 4.stack
-- [ ] stack
-- [ ] maze
-- [ ] tower of hanoi
+- [x] stack
+- [x] maze
+- [x] tower of hanoi
 ---
 
 # 5.queue
-- [ ] queue
-- [ ] josephus
-- [ ] deque
-- [ ] evaluating expressions
+- [x] queue
+- [x] josephus
+- [x] deque
+- [x] evaluating expressions
 ---
 
 # 6.linked list
-- [ ] linked node
-- [ ] singly linked list
-- [ ] linked polynomial
-- [ ] doubly linked list
+- [x] linked node
+- [x] singly linked list
+- [x] linked polynomial
+- [x] doubly linked list
 ---
 
 # 7.tree
